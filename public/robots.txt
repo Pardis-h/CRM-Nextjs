@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /accounts
+
+Sitemap: http://www.example.com/sitemap.xml
